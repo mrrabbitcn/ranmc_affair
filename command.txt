@@ -1,0 +1,1 @@
+/give @s minecraft:golden_helmet[minecraft:food={can_always_eat:true,nutrition:4,saturation:9.6},minecraft:consumable={},minecraft:max_damage=1,minecraft:lore=["附魔金头盔","吃下获取生命恢复2 8秒"],minecraft:potion_contents={custom_effects:[{amplifier:1,duration:160,id:"regeneration"}]}]
